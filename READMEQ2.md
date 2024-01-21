@@ -1,4 +1,4 @@
-# Aurora a stellar oddesey
+# ////////////////////////////Aurora a stellar oddesey\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ## Introduction
 This project is a part of IIT Dh's Tech fest 'PARSEC'. This project is supposed to predict the solar radiation and goemagnetic storms in the near fututre if past data is given.<br>
