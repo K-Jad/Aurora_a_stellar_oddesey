@@ -51,3 +51,11 @@ As mentioned in the problem statement calculate the RMSE value (<i>for example i
 
 ## Conclusion
 Here we can conclude the project by saving the model and its training weights for future use. 
+
+# Credits
+## Team Leader- Dev Kaushal
+## Aniruddh Pandav
+## Kaustubh Arjun Jadhav
+## Ajitesh Manan Jha
+## Maitreyee Kumbhojkar
+## Richa Rajshekhar
