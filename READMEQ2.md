@@ -41,7 +41,7 @@ Analyse the size of the data set and split it accordingly(<i>here 80 percent tra
 
 ## Selection and training of the model
 We use a Recurrent neural network called LSTM(<i>Long Short term Memory</i>) model for training because the dataset we have a time variant and for such projects where the signal varies with time LSTMs are best suited.<br>
-Analyse the size of features and training data and set the batchsizes,timesteps,epochs and verbose accordingly.<br> 
+Analyse the size of features and training data and set the batchsizes,timesteps,epochs and verbose accordingly(<i> here epochs:64 batchsize:32 verbose:1 </i>).<br> 
 Leave the model fr training and let it complete the training.<br>
 
 ## Results 
