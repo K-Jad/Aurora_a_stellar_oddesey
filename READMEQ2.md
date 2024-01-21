@@ -20,7 +20,7 @@ According to the problem statement of the project, raw and unprocessed data sets
 ## Data contained in the files
 We have the a Datetime , Magnetic field in x,y,z directions and other 50 physically dimensionless columns in the given source files so we name the dimensionless columns which effect flux as "<i>SW_Flux</i>".<br>
 A lot of data is missing and needs to be adjusted and replaced with a statistic figure. Data here is provided per mintue.<br>
-In the Kp index file too we have a lot of missing data and it is provided on a 3 hourly basis.<br>
+In the Kp index file is provided on a 3 hourly basis.<br>
 
 ## Preprocessing 
 This is the most crucial step of the project since the data we have been given is raw and we need to process it to turn it into meaningful features.<br>
@@ -33,7 +33,7 @@ This is the most crucial step of the project since the data we have been given i
 ->Concatenate all the files i.e all the feature dataset files from all years and the kp index files of the corresponding years to make a single large data set.<br>
 ->Use graphs,histograms and scatterplots to understand the target variable(<i>here kp index</i>) and its mathematical relations with the columns of the dataset.<br>
 ->Plot the graphs and use correlation as a medium to judge and select best columns and features. <br>
-->Set a threshold to correlation(<i>for example top 10 features</i>) and scale the features accordingly.<br>
+->Set a threshold to correlation(<i>for example top 12 features</i>) and scale the features accordingly.<br>
 ->Normalize the feautres using minmax scaler.<br>
 
 ## Splitting the data into training validation and test sets
